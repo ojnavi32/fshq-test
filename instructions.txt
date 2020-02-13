@@ -1,0 +1,4 @@
+I used laravel queue for scheduling of email.
+
+In the terminal run:
+php artisan queue:work
