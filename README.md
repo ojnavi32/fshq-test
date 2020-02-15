@@ -26,7 +26,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-#### Completed tasks
+## Completed tasks
 - Laravel auth without register
 - Database seeding and factory for tables user, employee, company and roles & permission
 - CRUD functionality for employee and company
@@ -41,11 +41,11 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 - Scheduled email
 - Used adminlte template for frontend design
 
-#### Not completed tasks
+## Not completed tasks
 - Notification of employees
 - Country field on company/employee
 
-##### Notes
+## Notes
 - I did make some changes on the employee schema. I did used the users table to save firstname, lastname, email and password instead of putting it on the employees table. I just added a foreign key on employees table for user id.
 
 
